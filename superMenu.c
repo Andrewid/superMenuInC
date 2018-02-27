@@ -20,13 +20,20 @@
 // Constants
 
 // Function Prototypes
+void HelloSuper();
 
 // Main Function
 int main()
 {
-    printf("Just work already\n");
+    
+    HelloSuper();
     return 0;
 }
 // Function Definitions
 
+
+void HelloSuper(){
+
+    printf("Just work already\n");
+};
 
