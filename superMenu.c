@@ -34,6 +34,6 @@ int main()
 
 void HelloSuper(){
 
-    printf("Just work already\n");
+    printf("Just work already\nAre we making progress?");
 };
 
