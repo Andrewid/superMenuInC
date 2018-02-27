@@ -15,4 +15,4 @@ Learned folowing git commands
 
 
 
-Yay :+1 :metal :octocat
+Yay :+1: :metal: :octocat:
